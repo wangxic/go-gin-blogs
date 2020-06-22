@@ -11,5 +11,5 @@ go get -u github.com/jinzhu/gorm //数据库包
 go get -u github.com/gomodule/redigo/redis
 
 1
-11111111   
+11111111111111111111111111111111111111111111111111111111111111111   
 33
