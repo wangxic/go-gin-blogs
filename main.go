@@ -31,7 +31,7 @@ func main() {
     // 加载模板文件
     r.LoadHTMLGlob("../gin/templates/**/*")
 
-    // 加载静态文件
+    // 加载静态文件1
     r.Static("/static", "static")
 
     http_port := cfg.Section("").Key("http_port").String()
