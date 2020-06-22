@@ -11,3 +11,7 @@ go get -u github.com/jinzhu/gorm //数据库包
 go get -u github.com/gomodule/redigo/redis
 
 77788888888
+
+
+
+111111
